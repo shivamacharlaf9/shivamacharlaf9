@@ -28,14 +28,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
-## 🏆 Highlights
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivamacharlaf9&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
-
 ## 🧠 Tech Stack
 
 **GenAI / LLMs**
@@ -138,9 +130,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivamacharlaf9&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamacharlaf9&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=shivamacharlaf9&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0D1117" width="100%"/>
 
