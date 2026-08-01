@@ -9,7 +9,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 🔗 Connect With Me
 
@@ -26,7 +26,15 @@
 
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+
+## 🏆 Highlights
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shivamacharlaf9&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+</div>
+
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 🧠 Tech Stack
 
@@ -125,7 +133,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -138,7 +146,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 📈 Contribution Activity
 
@@ -146,7 +154,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamacharlaf9&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 <div align="center">
 
@@ -156,6 +164,6 @@
 
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 <img src="https://capsule-render.com/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer" width="100%"/>
