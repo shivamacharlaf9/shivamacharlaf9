@@ -26,7 +26,7 @@
 </td>
 <td align="center" width="96">
 <a href="https://github.com/shivamacharlaf9" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55" alt="GitHub"/>
 </a><br/><sub>GitHub</sub>
 </td>
 <td align="center" width="96">
@@ -72,7 +72,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55"/><br/><sub>OpenAI</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/ffffff" width="55" height="55"/><br/><sub>OpenAI</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55"/><br/><sub>LangChain</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55"/><br/><sub>Hugging Face</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55"/><br/><sub>Gemini</sub></td>
@@ -170,7 +170,7 @@
 <table>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/><br/><sub>Git</sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/><br/><sub>GitHub</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55"/><br/><sub>GitHub</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55"/><br/><sub>GitLab</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55"/><br/><sub>Postman</sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55" height="55"/><br/><sub>Jira</sub></td>
