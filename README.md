@@ -141,6 +141,8 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamacharlaf9&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/shivamacharlaf9/shivamacharlaf9/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
