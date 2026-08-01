@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Macharla%20Shiva%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Macharla%20Shiva%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 **Building intelligent systems with AI &amp; LLMs — turning ideas into scalable, real-world products.**
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=A78BFA&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fshivamacharlaf9%2Freadme&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shivamacharlaf9&color=A78BFA&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/shivamacharlaf9?label=Followers&style=for-the-badge&color=A78BFA&logo=github&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 🔗 Connect With Me
 
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 🏆 Highlights
 
@@ -34,7 +34,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shivamacharlaf9&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 🧠 Tech Stack
 
@@ -133,7 +133,7 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -146,7 +146,7 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 ## 📈 Contribution Activity
 
@@ -154,7 +154,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamacharlaf9&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
 <div align="center">
 
@@ -164,6 +164,6 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A78BFA&height=3" width="100%"/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer" width="100%"/>
